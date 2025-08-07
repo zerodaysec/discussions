@@ -1,0 +1,5 @@
+# Global code owners for zerodaysec/discussions repository
+# This file defines who is responsible for reviewing code changes
+
+# Default ownership for all files
+* @jon-the-dev
